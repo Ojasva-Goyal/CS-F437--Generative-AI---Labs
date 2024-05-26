@@ -1,17 +1,17 @@
 # CS F437: Generative AI - Lab Sheets and Code Files
 This repository contains my solutions to the lab sessions for the course CS F437: Generative AI. Each lab focuses on different aspects and applications of generative models. I have included my solutions, the original lab instructions, and any necessary data or results files.
 ## Table of Contents
-- [Lab 1: Introduction to Python and PyTorch](#Lab_1)
-- [Lab 2:  Neural Networks (with Python)](#Lab_2)
-- [Lab 3: Text generation with Logistic regression & RNNs.](#lab-n-topic-name)
-- [Lab 4:  Image generation](#lab-n-topic-name)
-- [Lab 5: Pixel RNNs](#lab-n-topic-name)
-- [Lab 6: Pixel CNNs and Autoencoders](#lab-n-topic-name)
-- [Lab 7: Variational AutoEncoders (VAEs)](#lab-n-topic-name)
-- [Lab 8: TRANSFORMERS](#lab-n-topic-name)
-- [Lab 9: Generative Adversarial Networks (GANs)](#lab-n-topic-name)
-- [Lab 10: Image Generation using Diffusion Models](#lab-n-topic-name)
-- [Lab 11: Normalizing Flows](#lab-n-topic-name)
+- [Lab 1: Introduction to Python and PyTorch](Lab_1)
+- [Lab 2:  Neural Networks (with Python)](Lab_2)
+- [Lab 3: Text generation with Logistic regression & RNNs.](Lab_3)
+- [Lab 4:  Image generation](Lab_4)
+- [Lab 5: Pixel RNNs](Lab_5)
+- [Lab 6: Pixel CNNs and Autoencoders](Lab_6)
+- [Lab 7: Variational AutoEncoders (VAEs)](Lab_7)
+- [Lab 8: TRANSFORMERS](Lab_8)
+- [Lab 9: Generative Adversarial Networks (GANs)](Lab_9)
+- [Lab 10: Image Generation using Diffusion Models](Lab_10)
+- [Lab 11: Normalizing Flows](Lab_11)
 
 ## Setup Instructions
 
